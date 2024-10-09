@@ -33,6 +33,7 @@
 
     section#login {
         width: 990px;
+        height: 350px;
     }
 
     div#imagem {
@@ -52,6 +53,7 @@
     }
 
     div#form p {
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px 0px;
     }
 }
